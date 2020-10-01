@@ -1,15 +1,15 @@
 ### Website Monitoring Tool
 ```
-# This project monitoring websites by URL.
+# This project monitors websites by its URL.
 
-The project by URL takes parameters from site: 
+The project, by means of URL takes parameters from site: 
 response time, response size, response code, 
-response message, monitoring period.
-Than based on parameters that keeps in db (url, monitoring period, 
+response message, and monitoring period.
+Then based on parameters that keeps in db (url, monitoring period, 
 response time, response code, min response size, max response size, 
 substring and status) program validate this data and return it to user.
 
-# Used parallelism for computation website parameters.
+# Uses parallelism for computation website parameters.
 
 ```
 ## User Interface
